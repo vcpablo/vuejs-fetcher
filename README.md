@@ -1,5 +1,7 @@
 # vuejs-fetcher
 
+This repository supports the content of this article: [VueJS - Reusable Data Fetcher Component](https://dev.to/vcpablo/vuejs-reusable-data-fetcher-component-1jdo)
+
 ## Project setup
 ```
 yarn install
